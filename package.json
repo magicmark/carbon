@@ -23,6 +23,7 @@
     "morphmorph": "0.0.2",
     "ms": "^2.0.0",
     "next": "^3.2.2",
+    "puppeteer": "^0.11.0",
     "react": "^15.6.1",
     "react-click-outside": "^2.3.1",
     "react-codemirror": "0.2.6",
